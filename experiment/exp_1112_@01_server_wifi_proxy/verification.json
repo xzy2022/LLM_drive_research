@@ -1,0 +1,26 @@
+{
+  "verified_at": "2026-11-12T21:46:10+08:00",
+  "server_alias": "xxx",
+  "server_ipv4": "xxx",
+  "wifi_interface": "WLAN",
+  "wifi_source_ipv4": "xxx",
+  "observed_wifi_exit_ipv4": ["116.162.236.12", "116.162.236.204"],
+  "default_server_exit_ipv4_after_tests": "223.104.136.204",
+  "default_server_route_after_tests": "default via 10.42.0.1 dev ens111f0 proto static metric 100",
+  "vllm_pypi_index_http_status": 200,
+  "vllm_installed": false,
+  "wheel": {
+    "filename": "idna-3.20-py3-none-any.whl",
+    "bytes": 69583,
+    "sha256": "ab7ae7122974553370f0bdb919e1a960b2cd1bc1ef0276416d896db81c14582c",
+    "matches_pypi_metadata": true
+  },
+  "interactive_shell_passed": true,
+  "remote_failure_exit_code": 37,
+  "port_collision_exit_code": 255,
+  "port_collision_target_command_executed": false,
+  "all_test_proxy_processes_stopped": true,
+  "server_tunnel_listeners_removed": true,
+  "script_sha256": "57277BDB0C490EC5855F2C8DAF8D2140D4CF20724636348DCC288C567C3286C0",
+  "mihomo_sha256": "0B4C7353057A78DE8A09DB445351AADEC7D72A4F48ADC7D99691F3C5FF74D3DA"
+}

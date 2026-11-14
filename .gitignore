@@ -1,0 +1,5 @@
+# repos/ 下的项目分别维护独立 Git 历史。
+/repos/*/
+/tmp/
+/experiment/*/logs
+/papers_md/figures/

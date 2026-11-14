@@ -1,0 +1,94 @@
+{
+  "python": "3.12.16",
+  "executable": "/data/xxx/conda/envs/vllm/bin/python",
+  "vllm": "0.33.0",
+  "torch": "2.14.0+cu130",
+  "torch_cuda_runtime": "13.0",
+  "cuda_available": true,
+  "gpus": [
+    {
+      "index": 0,
+      "name": "NVIDIA GeForce RTX 4090",
+      "compute_capability": [
+        8,
+        9
+      ],
+      "total_memory_bytes": 25252724736
+    },
+    {
+      "index": 1,
+      "name": "NVIDIA GeForce RTX 4090",
+      "compute_capability": [
+        8,
+        9
+      ],
+      "total_memory_bytes": 25252724736
+    },
+    {
+      "index": 2,
+      "name": "NVIDIA GeForce RTX 4090",
+      "compute_capability": [
+        8,
+        9
+      ],
+      "total_memory_bytes": 25252724736
+    },
+    {
+      "index": 3,
+      "name": "NVIDIA GeForce RTX 4090",
+      "compute_capability": [
+        8,
+        9
+      ],
+      "total_memory_bytes": 25252724736
+    },
+    {
+      "index": 4,
+      "name": "NVIDIA GeForce RTX 4090",
+      "compute_capability": [
+        8,
+        9
+      ],
+      "total_memory_bytes": 25252724736
+    },
+    {
+      "index": 5,
+      "name": "NVIDIA GeForce RTX 4090",
+      "compute_capability": [
+        8,
+        9
+      ],
+      "total_memory_bytes": 25252724736
+    },
+    {
+      "index": 6,
+      "name": "NVIDIA GeForce RTX 4090",
+      "compute_capability": [
+        8,
+        9
+      ],
+      "total_memory_bytes": 25252724736
+    },
+    {
+      "index": 7,
+      "name": "NVIDIA GeForce RTX 4090",
+      "compute_capability": [
+        8,
+        9
+      ],
+      "total_memory_bytes": 25252724736
+    }
+  ],
+  "gpu_matrix_check": "passed",
+  "vllm_cuda_extension_import": "passed",
+  "vllm_silu_and_mul_check": "passed",
+  "triton_jit_check": "passed",
+  "cuda_compiler_packages": {
+    "nvidia-cuda-nvcc": "13.0.88",
+    "nvidia-cuda-nvrtc": "13.0.88",
+    "nvidia-nvvm": "13.0.88",
+    "nvidia-nvjitlink": "13.0.88",
+    "cuda-bindings": "13.0.3"
+  },
+  "model_inference_tested": false
+}

@@ -1,0 +1,10 @@
+# Match torch's CUDA Toolkit 13.0.3 stack; avoid newer PTX than driver 595 supports.
+cuda-python==13.0.3
+cuda-bindings==13.0.3
+nvidia-cuda-cccl==13.0.85.*
+nvidia-cuda-crt==13.0.88.*
+nvidia-cuda-nvcc==13.0.88.*
+nvidia-cuda-nvrtc==13.0.88.*
+nvidia-cuda-runtime==13.0.96.*
+nvidia-nvvm==13.0.88.*
+nvidia-nvjitlink==13.0.88.*

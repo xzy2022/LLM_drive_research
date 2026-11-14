@@ -1,0 +1,31 @@
+{
+  "checked_at": "2026-11-12T22:00:48.6400152+08:00",
+  "vllm_version": "0.33.0",
+  "vllm_requires_python": "<3.15,>=3.11",
+  "vllm_torch_requirement": [
+    "torch==2.14.0"
+  ],
+  "vllm_release_time": "2026-11-02T10:13:42.650733Z",
+  "vllm_x86_wheel": [
+    {
+      "filename": "vllm-0.33.0-cp38-abi3-manylinux_2_28_x86_64.whl",
+      "size": 336361138,
+      "url": "https://files.pythonhosted.org/packages/8b/a8/92e278093df40fde4c4bfd6572704bb8f398d6a2280d8c82cb5efaf12047/vllm-0.33.0-cp38-abi3-manylinux_2_28_x86_64.whl",
+      "digests": {
+        "blake2b_256": "8ba892e278093df40fde4c4bfd6572704bb8f398d6a2280d8c82cb5efaf12047",
+        "md5": "a491cbfff4f2d4da29fa948f7741aa48",
+        "sha256": "4b6bdec4ab269990bf70d45a3c1e94c3760a27064513760193b26d6f0da883aa"
+      }
+    }
+  ],
+  "torch_version": "2.14.0",
+  "torch_cuda_requirements": [
+    "cuda-toolkit[cublas,cudart,cufft,cufile,cupti,curand,cusolver,cusparse,nvjitlink,nvrtc,nvtx]==13.0.3; platform_system == \"Linux\"",
+    "nvidia-cudnn-cu13==9.24.0.43; platform_system == \"Linux\"",
+    "nvidia-nccl-cu13==2.30.7; platform_system == \"Linux\""
+  ],
+  "driver": "595.99.02",
+  "nvidia_smi_cuda": "13.2",
+  "python_selected": "3.12",
+  "prefix": "/data/xxx/conda/envs/vllm"
+}
